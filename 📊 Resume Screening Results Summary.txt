@@ -1,0 +1,66 @@
+📊 Resume Screening Results Summary
+
+After processing all resumes against the given job description for a Python Developer (ML/NLP role), the system generated the following insights:
+
+🟢 Top Performers (Highly Relevant Candidates)
+
+1. Alice Johnson
+
+Strong match with required skills: Python, Machine Learning, NLP, SQL, FastAPI
+Hands-on experience with TF-IDF and data analysis
+✔ Status: Shortlisted (Top Candidate)
+
+2. Diana Prince
+
+Strong background in Machine Learning, Python, SQL, and REST APIs
+Relevant industry experience as ML Engineer
+✔ Status: Shortlisted
+
+
+🟡 Moderate Match
+
+3. Charlie Brown
+
+Good knowledge of Python, SQL, and Data Analysis
+Lacks advanced ML/NLP exposure compared to top candidates
+✔ Status: Borderline / Can be considered
+🔴 Low Match (Rejected Candidates)
+
+4. Eve Wilson
+
+Skills focused on Web Development (Java, HTML, CSS)
+Does not align with ML/NLP/Data role
+❌ Status: Rejected
+
+5. Bob Smith
+
+Non-technical background (Sales, Communication)
+No relevant technical skills
+❌ Status: Rejected
+
+
+📈 Overall Insights
+Total resumes processed: 5
+Shortlisted candidates: 2
+Rejected candidates: 2
+Borderline candidates: 1
+
+
+🎯 Key Observations
+Candidates with Python + ML + NLP + SQL scored highest
+Practical project experience significantly improved ranking
+Non-technical or unrelated domains were automatically filtered out
+
+The system effectively mimics real-world ATS behavior
+
+
+🚀 Final Conclusion
+
+The resume screening tool successfully:
+
+Identified top candidates based on job requirements
+Reduced manual screening effort
+Provided a clear ranking and decision system
+
+👉 Best Candidate: Alice Johnson
+👉 Second Best: Diana Prince

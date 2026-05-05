@@ -1,0 +1,6 @@
+rank,candidate,score,score_percent,status,matched_skills,missing_skills
+1,resume_alice.txt,0.4247,42.5%,Shortlisted ✅,"python, pandas, numpy, scikit-learn, machine learning, nlp, sql, fastapi, rest api, data analysis, tf-idf, cosine similarity","flask, statistics"
+2,resume_diana.txt,0.3944,39.4%,Rejected ❌,"python, pandas, numpy, scikit-learn, machine learning, sql, flask, rest api, data analysis","nlp, fastapi, tf-idf, cosine similarity, statistics"
+3,resume_charlie.txt,0.299,29.9%,Rejected ❌,"python, sql, data analysis, statistics","pandas, numpy, scikit-learn, machine learning, nlp, flask, fastapi, rest api, tf-idf, cosine similarity"
+4,resume_eve.txt,0.0253,2.5%,Rejected ❌,sql,"python, pandas, numpy, scikit-learn, machine learning, nlp, flask, fastapi, rest api, data analysis, tf-idf, cosine similarity, statistics"
+5,resume_bob.txt,0.0236,2.4%,Rejected ❌,,"python, pandas, numpy, scikit-learn, machine learning, nlp, sql, flask, fastapi, rest api, data analysis, tf-idf, cosine similarity, statistics"
